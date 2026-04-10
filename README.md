@@ -2,7 +2,7 @@
 
 An AI-powered fitness coach designed for body recomposition. This app provides personalized advice on macros, workouts, and fat loss based on user-specific metrics.
 
-## 🚀 Features
+## Features
 - **AI Coach Interface:** Real-time chat with Google Gemini for personalized fitness guidance.
 ![App Screenshot](Screenshots/chat_interface.png)
 - **Dynamic Profile:** Save and load weight, height, and body fat percentage.
@@ -12,12 +12,12 @@ An AI-powered fitness coach designed for body recomposition. This app provides p
 - **iMessage UI:** Clean, modern chat bubble interface with markdown support.
 ![App Screenshot](Screenshots/chat_interface_2.png)
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** Swift (SwiftUI)
 - **AI Brain:** Google Generative AI (Gemini 3 Flash)
 - **Database:** Firebase Cloud Firestore
 
-## ⚙️ Setup (For Reviewers)
+## Setup (For Reviewers)
 To keep the project secure, API keys and Firebase configuration files have been `.gitignored`. To run this project locally:
 
 1. **Firebase:** Add your `GoogleService-Info.plist` to the root directory.
